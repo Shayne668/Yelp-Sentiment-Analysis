@@ -3,8 +3,6 @@
 ## Important
 
 Required: Python 3.10+
-Caution: A recent update (as of November 26, 2023) to Macbooks with an M1 chip causes an error with the Flask application needed to generated word clouds with our Tableau Visualization. 
-We do not know of a fix at the time, but all instructions below should still work for a Windows device or un-updated Macbook.
 
 ## Package
 
